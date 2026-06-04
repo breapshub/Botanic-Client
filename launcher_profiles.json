@@ -1,0 +1,37 @@
+{
+  "profiles": {
+    "Latest_Release": {
+      "name": "En Son Sürüm",
+      "type": "latest-release",
+      "created": "2026-01-01T00:00:00.000Z",
+      "lastUsed": "2026-01-01T00:00:00.000Z",
+      "icon": "Grass",
+      "lastVersionId": "latest-release"
+    },
+    "Latest_Snapshot": {
+      "name": "En Son Snapshot",
+      "type": "latest-snapshot",
+      "created": "2026-01-01T00:00:00.000Z",
+      "lastUsed": "2026-01-01T00:00:00.000Z",
+      "icon": "Furnace",
+      "lastVersionId": "latest-snapshot"
+    }
+  },
+  "settings": {
+    "crashAssistance": true,
+    "enableAdvanced": true,
+    "enableAnalytics": false,
+    "enableHistorical": false,
+    "enableReleases": true,
+    "enableSnapshots": false,
+    "keepLauncherOpen": false,
+    "locale": "tr-tr",
+    "showMenu": false,
+    "soundOn": true
+  },
+  "launcherVersion": {
+    "name": "2.x.x",
+    "format": 21,
+    "profilesFormat": 3
+  }
+}
